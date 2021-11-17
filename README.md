@@ -1,3 +1,5 @@
+![cover_image](https://user-images.githubusercontent.com/36620465/142175542-a9142e30-edcd-42d9-a223-63f37307d880.jpg)
+
 <h3>👋 Hi, I'm Thilrash</h3>
 
 <h5><em>Thilrash Gowzul Ameen</em></h5>
