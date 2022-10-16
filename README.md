@@ -60,7 +60,7 @@ Expected to Graduate in July 2022.</em></p>
 
 <h4><em>To Hire or Contact</em></h4>
 <ul>
-<p><em>Email - ameenthilrash01@gmail.com</em></p>
+<p><em>Email - ameenthilrash@gmail.com</em></p>
 <p><em>Location - Colombo 00500, Sri Lanka</em></p>
 </ul>
 
