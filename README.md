@@ -15,8 +15,7 @@ Friendly, Helpful and Polite. Able to listen effectively when solving problems.<
 <ul>
 
 <li><p><em>University</em></p></li>
-<p><em>Undergraduate at Sri Lanka Institute of Information Technology (SLIIT) for Bachelor of Science (Hons) Computing Information Technology. Currently in Fourth year Second Semester (4<sup>th</sup> year 2<sup>nd</sup> semester).
-Expected to Graduate in July 2022.</em></p>
+<p><em>Sri Lanka Institute of Information Technology (SLIIT) for Bachelor of Science (Hons) Computing Information Technology.</em></p>
 
 <li><p><em>School</em><p></li>
 <p><em>Completed Sri Lankan G.C.E Advance Level 2015 and Sri Lankan G.C.E Ordinary Level 2012 at Isipathana College</em></p>
