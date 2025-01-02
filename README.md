@@ -27,22 +27,6 @@ Beyond coding, I enjoy mentoring aspiring developers and contributing to open-so
 
 </ul>
 
-<h4><em>Developed Before (Real World Application & Deployed)</em></h4>
-<p><em>Developed full front-end based website for non-profit orgainization M.C.A.Hameed Hajiyar Trust. To see the website <a href="http://mcahht.com/">click here</a></em></p>
-<p><em>Developed full java and derby database based desktop application for doctor. it named as <strong>Medical Health Record Sytem</strong> with installation. To download the software <a href="https://drive.google.com/drive/folders/137ppx6dOTJ8nDwAjsWjk14XdNZiHq6wk?usp=sharing">click here</a></em></p>
-
-<h4><em>Currently in Develop (Real World Application & Processing)</em></h4>
-<p><em>Developing full-stack website for Ragama Thalasseamia Hospital or Unit and full admin panel. it named as Thalasseamia Patient's Record Registry.</em></p>
-
-<h4><em>Other Key Projects</em></h4>
-
-<ul>
-  <li><em><strong>Chatbot with feedback analysis</strong> development by using Machine & Deep Learning, Natural Language Processing (NLP), Python and React JS.</em></li>
-  <li><em>Resource Management System</em></li>
-  <li><em>E-Commerce full stack web application</em></li>
-  <li><em>Hotel Reservation System</em></li>
-</ul>
-
 <h4><em>Strong Areas</em></h4>
 
 <ul>
