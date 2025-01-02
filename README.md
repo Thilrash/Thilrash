@@ -7,8 +7,13 @@
 
 <h4><em>About Me</em></h4>
 
-<p><em>Hardworking, honest young professional who is willing to learn new skills under a progressive and dynamic organization, I have an inventive mind and always up for new challenges.
-Friendly, Helpful and Polite. Able to listen effectively when solving problems.</em></p>
+<p><em>Passionate software engineer with a strong foundation in designing and developing efficient, scalable, and user-friendly applications. My journey in technology is driven by an insatiable curiosity to solve real-world problems through innovative code and seamless integrations.
+
+With expertise spanning full-stack development, cloud computing, mobile applications and AI. I specialize in crafting robust systems that deliver exceptional user experiences. I thrive in collaborative environments where creativity meets technical precision, and I’m always eager to learn and adapt to emerging technologies.
+
+As a team leader, I excel at guiding cross-functional teams, streamlining workflows, and inspiring individuals to achieve their full potential. Ensuring quality, timeliness, and alignment with organizational goals.
+
+Beyond coding, I enjoy mentoring aspiring developers and contributing to open-source projects, reinforcing my commitment to community growth and knowledge sharing.</em></p>
 
 <h4><em>Education</em></h4>
 
