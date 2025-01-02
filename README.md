@@ -2,8 +2,8 @@
 
 <h3>👋 Hi, I'm Thilrash</h3>
 
-<h5><em>Thilrash Gowzul Ameen</em></h5>
-<em>Software Engineering Team Lead @ <a href="https://www.i-wonder.lk/">i-Wonder</a></em>
+<h4><em>Thilrash Gowzul Ameen</em></h4>
+<p><em>Software Engineering Team Lead @ <a href="https://www.i-wonder.lk/">i-Wonder</a></em></p>
 <em>Information Technology (Software Engineering)</em>
 
 <h4><em>About Me</em></h4>
