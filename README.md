@@ -40,11 +40,11 @@ Beyond coding, I enjoy mentoring aspiring developers and contributing to open-so
 <h4><em>Strong Programming Technologies</em></h4>
 
 <ul>
-<p><em>Object Orinted Programming or OOPs Concept.</em></p>
-<p><em>Web based services. (REST)</em></p>
+<p><em>Object Orinted Programming or OOPs Concept (Ex - C#/.NET)</em></p>
+<p><em>Web based services (Ex - Angular, ASP.NET Web API, .NET Core & Blazor)</em></p>
+<p><em>Mobile App Development (Ex - Flutter & MAUI)</em></p>
 <p><em>Machine Learning and Deep Learning.</em></p>
-<p><em>SQL, NoSQL and Cloud based database. (MySQL, MsSQL, MongoDB & Firebase)</em></p>
-<p><em>Langaages & Frameworks - Java, C#, Python, JavaScript (ES6 & ES7), ReactJS, Django, ASP.NET, Flutter, Kotlin, NodeJS & PHP.</em></p>
+<p><em>Database Technologies and DevOps & Cloud Tools (MSSQL, MongoDB, Firebase, Docker, Service Fabric Containers & Azure Technologies)</em></p>
 </ul>
 
 <h4><em>To Hire or Contact</em></h4>
