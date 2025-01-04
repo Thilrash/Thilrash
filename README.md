@@ -63,4 +63,5 @@ Beyond coding, I enjoy mentoring aspiring developers and contributing to open-so
   <img src="https://img.shields.io/badge/Blazor-5902f0?logo=blazor&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Flutter-1289e3?logo=flutter&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Firebase-c25313?logo=firebase&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Docker-1368c2?logo=docker&logoColor=white&style=flat">
 </p>
