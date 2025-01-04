@@ -58,4 +58,5 @@ Beyond coding, I enjoy mentoring aspiring developers and contributing to open-so
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/TypeScript-045bb8?logo=typescript&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Angular-a62828?logo=angular&logoColor=white&style=flat">
 </p>
