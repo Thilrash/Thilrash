@@ -54,3 +54,5 @@ Beyond coding, I enjoy mentoring aspiring developers and contributing to open-so
 </ul>
 
 <p><em>&copy All rights reserved to <a href="https://github.com/Thilrash">Thilrash Gowzul Ameen.</a></em></p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
