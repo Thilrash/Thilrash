@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/TypeScript-045bb8?logo=typescript&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Angular-a62828?logo=angular&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/CSharp%20.NET%20ASP.NET%20Core-0c05e3?logo=c#&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/NestJS-db2840?logo=nestjs&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Blazor-5902f0?logo=blazor&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Flutter-1289e3?logo=flutter&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Firebase-c25313?logo=firebase&logoColor=white&style=flat">
