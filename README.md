@@ -18,6 +18,8 @@
 <p><em>Software Engineering Team Lead @ <a href="https://www.i-wonder.lk/">i-Wonder</a></em></p>
 <em>Information Technology (Software Engineering)</em>
 
+<p><em>Lead an engineering team in designing, building, and scaling high-performance software solutions for UK insurance aggregation, broker systems, and quote-and-buy platforms. Oversee end-to-end technical delivery across the development lifecycle, ensuring clean architecture, code quality, and adherence to security and compliance standards. Mentor and guide software engineers, driving code reviews, technical pair-programming, and skill development within the team. Partner with product managers and cross-functional stakeholders across the UK and Sri Lanka to refine technical roadmaps, sprint goals, and resource allocation. Champion Agile/Scrum processes, optimizing sprint velocity, reducing technical debt, and streamlining deployment pipelines.</em></p>
+
 <h4><em>About Me</em></h4>
 
 <p><em>Passionate software engineer with a strong foundation in designing and developing efficient, scalable, and user-friendly applications. My journey in technology is driven by an insatiable curiosity to solve real-world problems through innovative code and seamless integrations.
